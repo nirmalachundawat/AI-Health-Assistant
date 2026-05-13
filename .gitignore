@@ -1,0 +1,43 @@
+# ── Environment & Secrets ────────────────────────────────
+.env
+.env.local
+.env.production
+
+# ── Python Virtual Environment ───────────────────────────
+venv/
+env/
+.venv/
+
+# ── Python Cache ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── ML Model Files (large binaries) ──────────────────────
+backend/models/diabetes_model.pkl
+backend/models/scaler.pkl
+
+# ── Dataset (can be re-downloaded) ───────────────────────
+backend/data/diabetes.csv
+
+# ── React / Node ─────────────────────────────────────────
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── OS Files ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / Editor ─────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
