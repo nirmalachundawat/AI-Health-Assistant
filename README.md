@@ -1,7 +1,7 @@
-# 🏥 AI Health Assistant
+#  AI Health Assistant
 ### Agentic AI System for Diabetes Diagnosis & Disease Monitoring
 
-## 📌 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#-project-overview)
 2. [Dataset](#-dataset)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 **AI Health Assistant** is a fully agentic AI application that uses a Large Language Model (LLM) at its core to intelligently diagnose diabetes risk and monitor patient health — powered by real machine learning, structured tools, and a conversational interface.
 
@@ -30,7 +30,7 @@ The system is built on the **Model Context Protocol (MCP)** pattern, where the L
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **PIMA Indians Diabetes Dataset**
 
@@ -43,7 +43,7 @@ The system is built on the **Model Context Protocol (MCP)** pattern, where the L
 
 ---
 
-## ⚙️ Environment Setup
+##  Environment Setup
 
 ### Prerequisites
 
@@ -61,7 +61,7 @@ The system is built on the **Model Context Protocol (MCP)** pattern, where the L
 
 ---
 
-## 📦 Installation
+##  Installation
 
 **Step 1 — Clone the repository**
 ```bash
@@ -106,7 +106,7 @@ cd ..
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ### Option A — One-click startup (Recommended)
 ```bash
@@ -144,7 +144,7 @@ stop.bat
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 ### Chat Endpoints
 
@@ -167,7 +167,7 @@ stop.bat
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Mock patient database with only 3 hardcoded patients — no real data persistence.
 - ML model trained only on diabetes data — no support for other diseases.
@@ -178,8 +178,6 @@ stop.bat
 ---
 
 <div align="center">
-
-**🏥 AI Health Assistant** — Built with Groq, FastAPI & React
 
 *Always consult a licensed physician for medical decisions.*
 
