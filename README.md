@@ -8,6 +8,7 @@
 3. [Environment Setup](#-environment-setup)
 4. [Installation](#-installation)
 5. [Running the Project](#-running-the-project)
+6. [Limitations](#-limitations)
 
 ---
 
