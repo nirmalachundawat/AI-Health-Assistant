@@ -163,8 +163,5 @@ stop.bat
 - No user authentication — not compliant with healthcare data privacy standards.
 - Free Groq API tier has rate limits, causing occasional delays under heavy usage.
 ----
-<div align="center">
 
 *Remember: Always consult a licensed physician for medical decisions.*
-
-</div>
